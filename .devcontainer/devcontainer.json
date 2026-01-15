@@ -1,0 +1,23 @@
+omeganode-forensics/
+├── .gitignore
+├── README.md
+├── requirements.txt
+├── main.py
+├── config.py
+├── database.py
+├── models.py
+├── schemas.py
+├── core/
+│   ├── __init__.py
+│   ├── patterns.py
+│   └── documentation.py
+└── data/
+    └── (will be created automatically for SQLite){
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {}
+}venv/
+__pycache__/
+*.pyc
+data/cases.db
+.env
+.DS_Store
