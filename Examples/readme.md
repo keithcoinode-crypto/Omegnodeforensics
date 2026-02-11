@@ -1,0 +1,60 @@
+# Example Implementations
+
+**Protected Content - NDA Required for Full Access**
+
+## 📋 Available Examples
+
+### 1. Partnership Demo (`partnership_demo.py`)
+Complete demonstration platform for partnership discussions:
+- High-level capabilities overview
+- Forensic workflow demonstration
+- Microsoft & IBM integration showcases
+- Partnership proposal generation
+
+### 2. Configuration (`demo_config.json`)
+Demo configuration and access control specifications.
+
+### 3. Integration Examples (NDA Required)
+The following examples require mutual NDA:
+- `microsoft_integration_full.py` - Complete Azure Sentinel integration
+- `ibm_integration_full.py` - Complete QRadar/Cloud Pak integration
+- `forensic_workflow_full.py` - Complete 4-algorithm implementation
+
+## 🔒 Access Protocol
+
+### Step 1: Initial Contact
+- Review public repository structure
+- Schedule introductory call
+- Discuss partnership objectives
+
+### Step 2: NDA Execution
+- Mutual NDA agreement
+- Define access scope and terms
+- Establish communication channels
+
+### Step 3: Technical Briefing
+- Protected code access granted
+- Live demonstration
+- Architecture deep-dive
+- Integration planning
+
+### Step 4: Pilot Program
+- Limited deployment
+- Performance validation
+- Feedback collection
+- Commercial terms discussion
+
+## 🚀 Quick Start (Public Access)
+
+```bash
+# Clone repository (public structure only)
+git clone https://github.com/[your-username]/omeganodeforensics.git
+
+# Review public documentation
+cd omeganodeforensics
+cat README.md
+cat docs/ARCHITECTURE.md
+
+# Run public demo (high-level only)
+python examples/partnership_demo.py
+```
