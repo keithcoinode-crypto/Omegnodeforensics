@@ -83,7 +83,7 @@ The following examples require mutual NDA:
 
 ```bash
 # Clone repository (public structure only)
-git clone https://github.com/[your-username]/omeganodeforensics.git
+git clone https://github.com/kethcoinode-crypto/omeganodeforensics.git
 
 # Review public documentation
 cd omeganodeforensics
